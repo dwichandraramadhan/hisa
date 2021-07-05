@@ -4,7 +4,7 @@
     "display": "standalone",
     "prefer_related_applications": "false",
     "scope": "https://hisa.girimoyo.com/",
-    "start_url": "https://hisa.girimoyo.com/?utm_source=homescreen",
+    "start_url": "https://hisa.girimoyo.com/",
     "name": "TPQ HIdayatus Salafiyah ",
     "short_name": "TPQ Hisa",
     "description": "TPQ HIdayatus Salafiyah Girimoyo, Karangploso",
