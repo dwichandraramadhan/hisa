@@ -3,6 +3,7 @@
     "background_color": "#fff",
     "display": "standalone",
     "start_url": "https://hisa.girimoyo.com/",
+    "prefer_related_applications": "false",
     "name": "TPQ HIdayatus Salafiyah ",
     "short_name": "TPQ Hisa",
     "description": "TPQ HIdayatus Salafiyah Girimoyo, Karangploso",
