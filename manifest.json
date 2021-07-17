@@ -1,8 +1,7 @@
 {
     "theme_color": "#417505",
-    "background_color": "#b8e986",
+    "background_color": "#fff",
     "display": "standalone",
-    "scope": "https://hisa.girimoyo.com/",
     "start_url": "https://hisa.girimoyo.com/",
     "name": "TPQ HIdayatus Salafiyah ",
     "short_name": "TPQ Hisa",
